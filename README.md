@@ -1,6 +1,3 @@
-Claro! Aqui vai uma sugestão de desafio que você pode passar para os alunos depois de explicar os conceitos de CSS, como margem, preenchimento, seletores e regras de estilo:
-
----
 
 ### **Desafio: Criando uma página de perfil pessoal com CSS**
 
